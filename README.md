@@ -119,4 +119,4 @@ skip_rate = df.groupby('artistName')['skipped'].mean().sort_values(ascending=Fal
 Feel free to fork this repository, open issues, or submit pull requests. Let’s make music analytics even cooler!  
 
 ---  
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Emmanuel Kusi*
